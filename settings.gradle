@@ -1,0 +1,5 @@
+pluginRepositories {
+    maven {
+        url "${System.properties['user.home']}/.m2/repository"
+    }
+}
